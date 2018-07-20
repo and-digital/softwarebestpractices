@@ -1,3 +1,6 @@
+---
+title: Contributing
+---
 # Contributing
 Software Best Practices is a community-driven project. This site is generated from a public Git repository: https://github.com/and-digital/softwarebestpractices
 
