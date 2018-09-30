@@ -1,0 +1,9 @@
+---
+layout: page
+title: Guides
+permalink: /guides/
+---
+
+{% for g in site.guides %}
+    <a href="{{ g.url }}">{{ g.title }}</a>
+{% endfor %}
